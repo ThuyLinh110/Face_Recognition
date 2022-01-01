@@ -1,0 +1,14 @@
+                         BASE 
+- Phím ngừng video
+- Lưu mảng chứa tên, thời gian trong quá trình camera nhận diện
+- Sort mảng theo tên, lấy thời gian sớm nhất
+- Lưu vào file điểm danh
+
+Deadline : 3/1/2021
+----------------
+                    WEB
+- GUI
+      
+- Model
+- Deploy
+- 
